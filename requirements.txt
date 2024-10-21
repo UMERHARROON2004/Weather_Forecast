@@ -1,0 +1,6 @@
+Required Libraries:
+   requests: This is the only external library needed for_your script to work.
+
+Installation Command:
+  Run the following command in_your terminal or command prompt to install the requests library:
+  pip install requests
